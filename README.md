@@ -41,7 +41,7 @@ pymChild.sendHeightToParent();
 
 ## For graphics living in the custom HTML/CSS CMS fields (no iframe)
 
-<article class="viz-article" id="viz-pym">
+<!-- <article class="viz-article" id="viz-pym">
 	<script type="text/javascript">
 		window.FC = window.FC || {};
 		window.FC.inlineFunctions = window.FC.inlineFunctions || {};
@@ -56,4 +56,4 @@ pymChild.sendHeightToParent();
 			window.FC.inlineFunctions.vizScript();
 		});
 	</script>
-</article>
+</article> -->
